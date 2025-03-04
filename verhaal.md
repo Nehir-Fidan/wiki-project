@@ -1,5 +1,5 @@
 # Verhaal
-"In de Ban van de Ring" is een episch fantasyverhaal geschreven door J.R.R. Tolkien. Het verhaal speelt zich af in Midden-aarde, een wereld vol magische wezens, oude koninkrijken en duistere krachten.
+"The Lord of The Rings" is een episch fantasyverhaal geschreven door J.R.R. Tolkien. Het verhaal speelt zich af in Midden-aarde, een wereld vol magische wezens, oude koninkrijken en duistere krachten.
 
 Het verhaal begint met Frodo Balings (Frodo Baggins), een hobbit uit de Gouw (Shire), die een magische ring erft van zijn oom Bilbo Balings. Al snel ontdekt hij dat deze ring de Ene Ring is, een krachtige en gevaarlijke ring die is gesmeed door de duistere heer Sauron. Sauron wil de ring terug om over Midden-aarde te heersen.
 
