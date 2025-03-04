@@ -12,3 +12,6 @@ Ondertussen vechten Aragorn, Legolas en Gimli in grote veldslagen tegen Saurons 
 Na de overwinning keert Frodo terug naar de Gouw, maar hij voelt zich niet meer thuis. Uiteindelijk vertrekt hij met Gandalf en de elfen naar de Onsterfelijke Landen, terwijl zijn vrienden in Midden-aarde blijven om een nieuw tijdperk van vrede te beginnen.
 
 "In de Ban van de Ring" is een verhaal over moed, vriendschap en de strijd tussen goed en kwaad. Het is een van de meest invloedrijke fantasyverhalen ooit geschreven.
+
+
+-Dit is een nieuwe alinea. 
